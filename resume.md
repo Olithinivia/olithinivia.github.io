@@ -12,5 +12,5 @@
 https://www.linkedin.com/in/cheng-teng-mao-25b814195/
 
 # University of Washington (Seattle, Washington)
-[university of Washington](https://www.washington.edu/)
+[University of Washington](https://www.washington.edu/)
 Major in Geography (GIS), Minor in Urban Design and Planning
