@@ -5,9 +5,12 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 }
 # Cheng Teng (Olivia) Mao 
-chengm24@uw.edu
+
+**email:** chengm24@uw.edu
+```
+**Linkedin:**
 https://www.linkedin.com/in/cheng-teng-mao-25b814195/
 
 # University of Washington (Seattle, Washington)
-[university of Washington]: https://www.washington.edu/
+[university of Washington](https://www.washington.edu/)
 Major in Geography (GIS), Minor in Urban Design and Planning
