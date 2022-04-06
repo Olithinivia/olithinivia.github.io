@@ -1,9 +1,3 @@
-{\rtf1\ansi\ansicpg950\cocoartf2513
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
 # Cheng Teng (Olivia) Mao
 > **email:** chengm24@uw.edu
 
@@ -13,7 +7,7 @@
 ### [University of Washington](https://www.washington.edu/) (Seattle, Washington)
 - Major in Geography (GIS)
   - Minor in Urban Design and Planning
- ![Photo of UW](Aspose.Words.28390914-1cb5-49de-a7fd-32b4c4530bf5.001.jpeg)
+![UW])(https://github.com/Olithinivia/olithinivia.github.io/blob/main/UWimage/UW.jpg)
 ## Work Experience 
 ### [UW Continuum College](https://www.continuum.uw.edu/) (Seattle, Washington)   
 #### Student Coordinator (January, 2022 to now)
