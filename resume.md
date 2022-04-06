@@ -7,7 +7,7 @@
 ### [University of Washington](https://www.washington.edu/) (Seattle, Washington)
 - Major in Geography (GIS)
   - Minor in Urban Design and Planning
-![])(/../UWimage/UW.jpg)
+![])(/.../Users/olithiniviamaochengteng/Desktop/UW/lab1/olithinivia.github.io/UWimage/uw.jpg)
 ## Work Experience 
 ### [UW Continuum College](https://www.continuum.uw.edu/) (Seattle, Washington)   
 #### Student Coordinator (January, 2022 to now)
